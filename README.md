@@ -177,7 +177,7 @@ Build Steps:
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/moshrack.git
+git clone https://github.com/milkMAN-sketch/moshrack.git
 cd moshrack
 Open the Project:
 Double-click the .sln file to open the project in Visual Studio 2022.
